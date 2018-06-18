@@ -16,7 +16,7 @@ The file [LSTM.ipynb](LSTM.ipynb) constructs a RNN using the LSTM cell and predi
 
 ## Result
 
-This model proved to be better than the other models previously used to predict the winner of a football match. Detailed analysis is given in the [paper](Set_Paper.pdf).
+This model proved to be better than the other models previously used to predict the winner of a football match. Detailed analysis is given in the [paper](Set_Paper.pdf) (under review).
 
 ## Libraries Required
 1. tensorflow
