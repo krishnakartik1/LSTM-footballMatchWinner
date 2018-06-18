@@ -8,4 +8,4 @@ The dataset used here has been obtained from [football-data.co.uk](http://footba
 
 ## Data Preprocessing
 
-The files [dataCleaning.ipynb](.../master/dataCleaning.ipynb)
+The files [dataCleaning.ipynb](dataCleaning.ipynb)
