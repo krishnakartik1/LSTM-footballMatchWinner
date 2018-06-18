@@ -8,4 +8,20 @@ The dataset used here has been obtained from [football-data.co.uk](http://footba
 
 ## Data Preprocessing
 
-The files [dataCleaning.ipynb](dataCleaning.ipynb)
+The files [dataCleaning.ipynb](dataCleaning.ipynb) and [fdManipulate.ipynb](fdManipulate.ipynb) take the raw data from the website and add attributes regarding the win streaks and the loss streaks for every team. Also, [eplStandings.csv](datasets/eplStandings.csv) contains the final ranks of all the teams in the English Premier League from 2010-11 to 2016-17.
+
+## Prediction
+
+The file [LSTM.ipynb](LSTM.ipynb) constructs a RNN using the LSTM cell and predicts the outcome of the [test dataset](datasets/test.csv).
+
+## Result
+
+This model proved to be better than the other models previously used to predict the winner of a football match. Detailed analysis is given in the [paper](Set_Paper.pdf).
+
+## Libraries Required
+1. tensorflow
+2. pandas
+3. numpy
+4. datetime
+5. itertools
+6. scikit-learn
