@@ -18,7 +18,7 @@ The file [LSTM_New.ipynb](LSTM_New.ipynb) constructs a RNN using the LSTM cell (
 
 ## Result
 
-This model proved to be better than the other models previously used to predict the winner of a football match. Detailed analysis is given in the [paper](Set_Paper.pdf) (under review).
+This model proved to be better than the other models previously used to predict the winner of a football match. Detailed analysis is given in the [paper](Set_Paper.pdf) (under review). The accuracy percentages in the paper are incorrect. Please execute [LSTM_New.ipynb](LSTM_New.ipynb) python notebook to get the correct accuracy.
 
 ## Libraries Required
 1. tensorflow
