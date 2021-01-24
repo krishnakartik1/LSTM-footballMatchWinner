@@ -12,7 +12,9 @@ The files [dataCleaning.ipynb](dataCleaning.ipynb) and [fdManipulate.ipynb](fdMa
 
 ## Prediction
 
-The file [LSTM.ipynb](LSTM.ipynb) constructs a RNN using the LSTM cell and predicts the outcome of the [test dataset](datasets/test.csv).
+The file [LSTM.ipynb](LSTM.ipynb) [Depricated] constructs a RNN using the LSTM cell (tensorflow 1.14) and predicts the outcome of the [test dataset](allAtt_onehot_large_test.csv).
+
+The file [LSTM_New.ipynb](LSTM_New.ipynb) constructs a RNN using the LSTM cell (tensorflow keras API) and predicts the outcome of the [test dataset](allAtt_onehot_large_test.csv).
 
 ## Result
 
